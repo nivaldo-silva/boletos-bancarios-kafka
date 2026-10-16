@@ -2,7 +2,9 @@
 
 Projeto com duas aplicações Spring Boot que se comunicam por Apache Kafka, utilizando Avro e Confluent Schema Registry.
 
-![Arquitetura](images/Arquitetura de Pagamentos com Kafka.png)
+<p align="center">
+  <img src="images/Arquitetura de Pagamentos com Kafka.png" alt="Arquitetura de pagamentos com Kafka" width="100%">
+</p>
 
 ### Aplicações
 
